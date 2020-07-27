@@ -1,0 +1,99 @@
+NAME:Windgrace Lands
+1 [3ED:185] Wheel of Fortune
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [6ED:274] Ashnod's Altar
+1 [GRN:152] Assassin's Trophy
+1 [M21:173] Azusa, Lost but Seeking
+1 [3ED:282] Badlands
+1 [3ED:283] Bayou
+1 [NPH:103] Beast Within
+1 [DOM:174] Multani, Yavimaya's Avatar
+1 [6ED:161] Vampiric Tutor
+1 [KTK:230] Bloodstained Mire
+1 [5ED:182] Necropotence
+1 [ARN:70] Bazaar of Baghdad
+1 [STH:104] Constant Mists
+1 [ULG:98] Crop Rotation
+1 [M19:229] Crucible of Worlds
+1 [5ED:329] Sylvan Library
+1 [4ED:363] Strip Mine
+1 [RTR:213] Deathrite Shaman
+1 [ODY:287] Decimate
+1 [3ED:274] Sol Ring
+1 [C19:24] Dockside Extortionist
+1 [THB:169] Dryad of the Ilysian Grove
+1 [C15:56] Command Beacon
+1 [M20:169] Elvish Reclaimer
+1 [NEM:117] Skyshroud Claim
+1 [5DN:86] Eternal Witness
+1 [CHK:225] Kodama's Reach
+1 [WWK:99] Explore
+1 [OGW:174] Mirrorpool
+1 [M13:170] Farseek
+1 [M20:247] Field of the Dead
+1 [ICE:353] Glacial Chasm
+1 [ZEN:165] Harrow
+1 [M21:188] Heroic Intervention
+1 [USG:250] Exploration
+1 [ELD:329] Korvold, Fae-Cursed King
+1 [RAV:172] Life from the Loam
+1 [GTC:147] Borborygmos Enraged
+1 [ZEN:168] Lotus Cobra
+1 [M20:249] Lotus Field
+1 [ZEN:219] Marsh Flats
+1 [OGW:156] Mina and Denn, Wildborn
+1 [ZEN:220] Misty Rainforest
+1 [WWK:108] Nature's Claim
+1 [5ED:316] Nature's Lore
+1 [ORI:189] Nissa, Vastwood Seer
+1 [KLD:163] Nissa, Vital Force
+1 [MH1:243] Nurturing Peatland
+1 [BFZ:217] Omnath, Locus of Rage
+1 [ZEN:172] Oracle of Mul Daya
+1 [GRN:253] Overgrown Tomb
+1 [9ED:152] Phyrexian Arena
+1 [KTK:239] Polluted Delta
+1 [MH1:244] Prismatic Vista
+1 [HOU:129] Ramunap Excavator
+1 [ROE:206] Realms Uncharted
+1 [BFZ:121] Retreat to Hagra
+1 [ZEN:223] Scalding Tarn
+1 [DOM:161] Gaea's Blessing
+1 [DOM:173] The Mending of Dominaria
+1 [3ED:105] Demonic Tutor
+1 [EMN:171] Splendid Reclamation
+1 [VIS:137] Squandered Resources
+1 [RNA:259] Stomping Ground
+1 [M21:177] Cultivate
+1 [ELD:333] Command Tower
+1 [3ED:287] Taiga
+1 [C20:162] Tectonic Reformation
+1 [STH:102] Burgeoning
+1 [SOI:245] The Gitrog Monster
+1 [GTC:248] Thespian's Stage
+1 [CMA:157] Titania, Protector of Argoth
+5 [M21:272] Forest
+1 [WWK:132] Bojuka Bog
+1 [BFZ:197] Undergrowth Champion
+1 [WAR:244] Blast Zone
+1 [ZEN:229] Verdant Catacombs
+1 [STH:143] Volrath's Stronghold
+1 [TMP:315] Ancient Tomb
+1 [C18:49] Windgrace's Judgment
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [RIX:151] World Shaper
+1 [EVE:131] Worm Harvest
+1 [MH1:217] Wrenn and Six
+1 [ORI:209] Zendikar's Roil
+1 [ICE:350] Zuran Orb
+1 [USG:321] Gaea's Cradle
+1 [CSP:58] Grim Harvest
+1 [BBD:73] Pir's Whim
+1 [M12:224] Buried Ruin
+1 [MBS:88] Praetor's Counsel
+1 [WWK:121] Amulet of Vigor
+SB: 1 [C18:43] Lord Windgrace
+LAYOUT MAIN:(2,9)(CMC,true,50)|()([RTR:213],[M20:169])([C19:24],[ZEN:168])([M21:173],[THB:169],[5DN:86],[ORI:189],[HOU:129],[BFZ:197])([OGW:156],[ZEN:172],[RIX:151])([ELD:329],[SOI:245],[CMA:157])([DOM:174])([BFZ:217])([GTC:147])([ZEN:211],[3ED:282],[3ED:283],[KTK:230],[ARN:70],[4ED:363],[C15:56],[OGW:174],[M20:247],[ICE:353],[M20:249],[ZEN:219],[ZEN:220],[MH1:243],[GRN:253],[KTK:239],[MH1:244],[ZEN:223],[RNA:259],[ELD:333],[3ED:287],[GTC:248],[M21:272],[M21:272],[M21:272],[M21:272],[M21:272],[WWK:132],[WAR:244],[ZEN:229],[STH:143],[TMP:315],[KTK:248],[KTK:249],[ICE:350],[USG:321],[M12:224])([6ED:161],[ULG:98],[3ED:274],[USG:250],[WWK:108],[STH:102],[WWK:121])([ELD:331],[GRN:152],[STH:104],[5ED:329],[WWK:99],[M13:170],[M21:188],[RAV:172],[5ED:316],[DOM:161],[3ED:105],[VIS:137],[C20:162],[MH1:217],[CSP:58])([3ED:185],[6ED:274],[NPH:103],[5ED:182],[M19:229],[CHK:225],[ZEN:165],[9ED:152],[ROE:206],[BFZ:121],[M21:177])([ODY:287],[NEM:117],[EMN:171],[BBD:73])([KLD:163],[DOM:173],[C18:49],[EVE:131],[ORI:209])()()([MBS:88])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([C18:43])

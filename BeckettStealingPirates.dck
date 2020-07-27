@@ -1,0 +1,97 @@
+NAME:BeckettStealingPirates
+1 [5DN:21] Acquire
+1 [MB1:1603] Mana Crypt
+1 [RIX:201] Angrath, Minotaur Pirate
+1 [ELD:331] Arcane Signet
+1 [THS:42] Bident of Thassa
+1 [ONS:71] Blatant Thievery
+1 [3ED:274] Sol Ring
+1 [M19:254] Reliquary Tower
+1 [8ED:64] Bribery
+1 [XLN:136] Captain Lannery Storm
+1 [XLN:137] Captivating Crew
+1 [ELD:239] Castle Embereth
+1 [MH1:82] Changeling Outcast
+1 [XLN:48] Chart a Course
+1 [3ED:105] Demonic Tutor
+1 [XLN:234] Conqueror's Galleon
+1 [XLN:95] Contract Killing
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [XLN:49] Daring Saboteur
+1 [RIX:66] Dead Man's Chest
+1 [ELD:333] Command Tower
+1 [M19:49] Departed Deckhand
+1 [RAV:260] Dimir Signet
+1 [XLN:221] Dire Fleet Captain
+1 [RIX:99] Dire Fleet Daredevil
+1 [RIX:156] Dire Fleet Neckbreaker
+1 [C19:24] Dockside Extortionist
+1 [M14:208] Door of Destinies
+1 [XLN:106] Fathom Fleet Captain
+1 [9ED:297] Fellwar Stone
+1 [C20:35] Fierce Guardianship
+1 [RIX:72] Forerunner of the Coalition
+1 [XLN:223] Hostage Taker
+1 [GPT:152] Izzet Signet
+1 [C17:11] Kindred Discovery
+1 [C17:18] Kindred Dominance
+1 [THB:52] Kiora Bests the Sea God
+1 [M21:107] Kitesail Freebooter
+1 [MRD:199] Lightning Greaves
+1 [XLN:112] March of the Drowned
+1 [RNA:42] Mass Manipulation
+1 [AER:38] Mechanized Production
+1 [C20:54] Molten Echoes
+1 [AKH:64] Open into Wonder
+1 [C20:298] Path of Ancestry
+1 [RIX:109] Pirate's Pillage
+1 [XLN:68] Pirate's Prize
+1 [RIX:81] Pitiless Plunderer
+1 [RIX:167] Protean Raider
+1 [XLN:244] Prying Blade
+1 [IKO:65] Reconnaissance Mission
+1 [XLN:117] Revel in Riches
+1 [ORI:250] Rogue's Passage
+1 [C20:55] Shiny Impetus
+1 [XLN:79] Siren Stormtamer
+1 [MMQ:61] Brainstorm
+1 [M20:76] Spectral Sailor
+1 [XLN:82] Spell Swindle
+1 [AVR:78] Stolen Goods
+1 [RIX:172] Storm Fleet Sprinter
+1 [RIX:173a] Storm the Vault
+1 [M12:219] Swiftfoot Boots
+1 [XLN:250] Treasure Map
+1 [RTR:111] Vandalblast
+1 [XLN:251] Vanquisher's Banner
+1 [RIX:204] Angrath's Fury
+1 [STH:138] Mox Diamond
+1 [MRD:152] Chrome Mox
+1 [SOM:179] Mox Opal
+1 [MB1:896] Curse of Opulence
+1 [ZEN:223] Scalding Tarn
+1 [GRN:257] Steam Vents
+1 [3ED:291] Volcanic Island
+1 [KTK:239] Polluted Delta
+1 [3ED:290] Underground Sea
+1 [GRN:259] Watery Grave
+1 [3ED:282] Badlands
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [TMP:315] Ancient Tomb
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [ZEN:211] Arid Mesa
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [MH1:244] Prismatic Vista
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:249] Wooded Foothills
+4 [M21:263] Island
+3 [M21:269] Mountain
+2 [M21:266] Swamp
+SB: 1 [XLN:217] Admiral Beckett Brass
+LAYOUT MAIN:(2,8)(CARD_TYPE,true,50)|()([XLN:136],[XLN:137],[MH1:82],[XLN:49],[M19:49],[XLN:221],[RIX:99],[RIX:156],[C19:24],[XLN:106],[RIX:72],[XLN:223],[M21:107],[RIX:81],[RIX:167],[XLN:79],[M20:76],[RIX:172])()()()()()()([MB1:1603],[ELD:331],[3ED:274],[XLN:234],[RAV:260],[M14:208],[9ED:297],[GPT:152],[MRD:199],[XLN:244],[M12:219],[XLN:250],[XLN:251],[STH:138],[MRD:152],[SOM:179])()([THS:42])([RIX:66],[C17:11],[THB:52],[AER:38],[C20:54],[IKO:65],[XLN:117],[C20:55],[RIX:173a],[MB1:896])([7ED:67],[RTR:35],[C20:35],[MMQ:61],[XLN:82])([M19:254],[ELD:239],[ELD:333],[C20:298],[ORI:250],[ZEN:223],[GRN:257],[3ED:291],[KTK:239],[3ED:290],[GRN:259],[3ED:282],[RNA:245],[KTK:230],[TMP:315],[8ED:322],[JOU:163],[ZEN:211],[KTK:233],[ZEN:219],[ZEN:220],[MH1:244],[ZEN:229],[KTK:249],[M21:263],[M21:263],[M21:263],[M21:263],[M21:269],[M21:269],[M21:269],[M21:266],[M21:266])([RIX:201])([5DN:21],[ONS:71],[8ED:64],[XLN:48],[3ED:105],[XLN:95],[C17:18],[XLN:112],[RNA:42],[AKH:64],[RIX:109],[XLN:68],[AVR:78],[RTR:111],[RIX:204])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([XLN:217])

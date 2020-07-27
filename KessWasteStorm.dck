@@ -1,0 +1,103 @@
+NAME:KessWasteStorm
+1 [ALA:63] Ad Nauseam
+1 [KLD:192] Aetherflux Reservoir
+1 [USG:111] Windfall
+1 [ZEN:211] Arid Mesa
+1 [3ED:282] Badlands
+1 [3ED:185] Wheel of Fortune
+1 [KTK:230] Bloodstained Mire
+1 [GRN:259] Watery Grave
+1 [6ED:161] Vampiric Tutor
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [8ED:322] City of Brass
+1 [10E:362] Underground River
+1 [3ED:274] Sol Ring
+1 [RTR:35] Cyclonic Rift
+1 [ISD:155] Past in Flames
+1 [FRF:66] Dark Deal
+1 [ORI:90] Dark Petition
+1 [ULG:43] Snap
+1 [ICE:121] Demonic Consultation
+1 [CHK:268] Sensei's Divining Top
+1 [RAV:260] Dimir Signet
+1 [KLD:44] Dramatic Reversal
+1 [5DN:55] Night's Whisper
+1 [CON:142] Exotic Orchard
+1 [9ED:297] Fellwar Stone
+1 [M21:103] Grim Tutor
+1 [KTK:233] Flooded Strand
+1 [6ED:83] Mystical Tutor
+1 [SOM:179] Mox Opal
+1 [ULG:32] Frantic Search
+1 [STH:138] Mox Diamond
+1 [NPH:35] Gitaxian Probe
+1 [5ED:388] Mana Vault
+1 [JR:109] Imperial Seal
+1 [TMP:70] Intuition
+1 [MB1:1603] Mana Crypt
+1 [TMP:294] Lotus Petal
+1 [GPT:152] Izzet Signet
+1 [WAR:54] Jace, Wielder of Mysteries
+1 [GRN:207] Thousand-Year Storm
+1 [MRD:188] Isochron Scepter
+1 [XLN:243] Primal Amulet
+1 [JOU:163] Mana Confluence
+1 [FEM:18a] High Tide
+1 [LEG:65] Mana Drain
+1 [ULG:126] Grim Monolith
+1 [ZEN:219] Marsh Flats
+1 [NPH:38] Mental Misstep
+1 [GRN:44] Mission Briefing
+1 [ZEN:220] Misty Rainforest
+1 [BBD:83] Morphic Pool
+1 [USG:188] Gamble
+1 [ALL:28] Force of Will
+1 [RAV:60] Muddle the Mixture
+1 [ICE:87] Mystic Remora
+1 [MH1:255] Flusterstorm
+1 [WAR:62] Narset's Reversal
+1 [EMA:108] Toxic Deluge
+1 [CHK:163] Desperate Ritual
+1 [ALL:107] Lim-Dul's Vault
+1 [FUT:42] Pact of Negation
+1 [V14:10] Rolling Earthquake
+1 [KTK:239] Polluted Delta
+1 [M12:73] Ponder
+1 [M11:70] Preordain
+1 [ZEN:223] Scalding Tarn
+1 [3ED:105] Demonic Tutor
+1 [MMQ:129] Dark Ritual
+1 [MIR:307] Lion's Eye Diamond
+1 [3ED:53] Copy Artifact
+1 [XLN:81] Spell Pierce
+1 [KLD:249] Spirebluff Canal
+1 [GRN:257] Steam Vents
+1 [M21:263] Island
+1 [5ED:182] Necropotence
+1 [ODY:164] Tainted Pact
+1 [MH1:231] Talisman of Creativity
+1 [MRD:253] Talisman of Dominance
+1 [2ED:85] Timetwister
+1 [ELD:333] Command Tower
+1 [3ED:290] Underground Sea
+1 [MRD:152] Chrome Mox
+1 [TOR:51] Cabal Ritual
+1 [ZEN:229] Verdant Catacombs
+1 [3ED:291] Volcanic Island
+1 [M15:122] Waste Not
+1 [MMQ:61] Brainstorm
+1 [RNA:245] Blood Crypt
+1 [GTC:207] Whispering Madness
+1 [TMP:315] Ancient Tomb
+1 [AKH:76] Winds of Rebuke
+1 [KTK:249] Wooded Foothills
+1 [USG:171] Yawgmoth's Will
+1 [9ED:216] Seething Song
+1 [CSP:152] Snow-Covered Island
+1 [ODY:317] Cephalid Coliseum
+1 [CHK:276] Forbidden Orchard
+1 [BBD:82] Luxury Suite
+1 [ONS:73] Chain of Vapor
+SB: 1 [MH1:206] Kess, Dissident Mage
+LAYOUT MAIN:(2,6)(CARD_TYPE,true,50)|()()()()()()([KLD:192],[3ED:274],[CHK:268],[RAV:260],[9ED:297],[SOM:179],[STH:138],[5ED:388],[MB1:1603],[TMP:294],[GPT:152],[MRD:188],[XLN:243],[ULG:126],[MIR:307],[MH1:231],[MRD:253],[MRD:152])([GRN:207],[ICE:87],[3ED:53],[5ED:182],[M15:122])([ALA:63],[6ED:161],[RTR:35],[ULG:43],[ICE:121],[KLD:44],[6ED:83],[ULG:32],[TMP:70],[FEM:18a],[LEG:65],[NPH:38],[GRN:44],[ALL:28],[RAV:60],[MH1:255],[WAR:62],[CHK:163],[ALL:107],[FUT:42],[MMQ:129],[XLN:81],[ODY:164],[TOR:51],[MMQ:61],[AKH:76],[9ED:216],[ONS:73])([ZEN:211],[3ED:282],[KTK:230],[GRN:259],[M15:248],[8ED:322],[10E:362],[CON:142],[KTK:233],[JOU:163],[ZEN:219],[ZEN:220],[BBD:83],[KTK:239],[ZEN:223],[KLD:249],[GRN:257],[M21:263],[ELD:333],[3ED:290],[ZEN:229],[3ED:291],[RNA:245],[TMP:315],[KTK:249],[CSP:152],[ODY:317],[CHK:276],[BBD:82])([WAR:54])([USG:111],[3ED:185],[ISD:155],[FRF:66],[ORI:90],[5DN:55],[M21:103],[NPH:35],[JR:109],[USG:188],[EMA:108],[V14:10],[M12:73],[M11:70],[3ED:105],[2ED:85],[GTC:207],[USG:171])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([MH1:206])

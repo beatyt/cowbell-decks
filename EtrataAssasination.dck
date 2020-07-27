@@ -1,0 +1,98 @@
+NAME:EtrataAssasination
+1 [GRN:259] Watery Grave
+1 [ELD:331] Arcane Signet
+1 [6ED:161] Vampiric Tutor
+1 [CM2:174] Blade of Selves
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [M21:82] Unsubstantiate
+1 [RAV:197] Clutch of the Undercity
+1 [10E:362] Underground River
+1 [EMA:108] Toxic Deluge
+1 [MRD:159] Crystal Shard
+1 [RTR:35] Cyclonic Rift
+1 [ALL:107] Lim-Dul's Vault
+1 [ORI:90] Dark Petition
+1 [TOR:141] Tainted Isle
+1 [AVR:47] Deadeye Navigator
+1 [4ED:363] Strip Mine
+1 [3ED:274] Sol Ring
+1 [KLD:75] Diabolic Tutor
+1 [KTK:36] Dig Through Time
+1 [RAV:260] Dimir Signet
+1 [EMN:55] Displace
+1 [ULG:43] Snap
+1 [EXO:132] Erratic Portal
+1 [SOI:61] Essence Flux
+6 [M21:263] Island
+1 [PCY:45] Rhystic Study
+1 [CON:142] Exotic Orchard
+1 [M19:254] Reliquary Tower
+1 [9ED:297] Fellwar Stone
+1 [C20:35] Fierce Guardianship
+1 [KTK:233] Flooded Strand
+1 [AVR:57] Ghostly Flicker
+1 [CHK:277] Hall of the Bandit Lord
+1 [DOM:217] Helm of the Host
+1 [AER:36] Illusionist's Stratagem
+1 [MRD:199] Lightning Greaves
+1 [TMP:80] Propaganda
+1 [M20:69] Negate
+1 [HOU:165] Mirage Mirror
+1 [BBD:83] Morphic Pool
+1 [RAV:60] Muddle the Mixture
+1 [6ED:83] Mystical Tutor
+1 [ICE:87] Mystic Remora
+1 [ELD:247] Mystic Sanctuary
+1 [JR:109] Imperial Seal
+1 [C20:45] Netherborn Altar
+1 [GRN:193] Notion Rain
+1 [M15:74] Peel from Reality
+1 [9ED:152] Phyrexian Arena
+1 [KTK:239] Polluted Delta
+1 [M12:73] Ponder
+1 [M20:71] Portal of Sanctuary
+1 [MB1:1603] Mana Crypt
+1 [M20:64] Leyline of Anticipation
+1 [SOK:53] Sakashima the Impostor
+1 [INV:57] Fact or Fiction
+1 [DOM:63] Rescue
+1 [M10:52] Fabricate
+1 [IKO:247] Evolving Wilds
+1 [AKH:243] Fetid Pools
+1 [C19:59] Sanctum of Eternity
+1 [XLN:253] Drowned Catacomb
+1 [3ED:105] Demonic Tutor
+1 [WAR:68] Spark Double
+1 [M14:224] Strionic Resonator
+1 [SCG:64] Decree of Pain
+1 [BFZ:249] Sunken Hollow
+1 [FRF:54] Supplant Form
+1 [THS:65] Swan Song
+1 [M12:219] Swiftfoot Boots
+1 [M14:207] Darksteel Ingot
+1 [MRD:253] Talisman of Dominance
+1 [WAR:72] Teferi's Time Twist
+1 [PLC:85] Damnation
+1 [7ED:67] Counterspell
+1 [KTK:59] Treasure Cruise
+1 [ELD:333] Command Tower
+1 [3ED:290] Underground Sea
+1 [GRN:56] Unexplained Disappearance
+1 [MMQ:61] Brainstorm
+1 [M20:78] Unsummon
+1 [WWK:132] Bojuka Bog
+1 [C20:255] Ash Barrens
+1 [VIS:48] Vanishing
+1 [WTH:58] Vodalian Illusionist
+1 [TMP:315] Ancient Tomb
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:223] Scalding Tarn
+1 [MH1:244] Prismatic Vista
+1 [ZEN:229] Verdant Catacombs
+1 [MRD:152] Chrome Mox
+1 [STH:138] Mox Diamond
+SB: 1 [GRN:170] Etrata, the Silencer
+LAYOUT MAIN:(2,6)(CARD_TYPE,true,50)|()([AVR:47],[SOK:53],[WAR:68],[WTH:58])()()()()([ELD:331],[CM2:174],[MRD:159],[3ED:274],[RAV:260],[EXO:132],[9ED:297],[DOM:217],[MRD:199],[HOU:165],[C20:45],[M20:71],[MB1:1603],[M14:224],[M12:219],[M14:207],[MRD:253],[MRD:152],[STH:138])()([PCY:45],[TMP:80],[ICE:87],[9ED:152],[M20:64],[VIS:48])([6ED:161],[M21:82],[RAV:197],[RTR:35],[ALL:107],[KTK:36],[EMN:55],[ULG:43],[SOI:61],[C20:35],[AVR:57],[AER:36],[M20:69],[RAV:60],[6ED:83],[M15:74],[INV:57],[DOM:63],[FRF:54],[THS:65],[WAR:72],[7ED:67],[GRN:56],[MMQ:61],[M20:78])([GRN:259],[M15:248],[10E:362],[TOR:141],[4ED:363],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[CON:142],[M19:254],[KTK:233],[CHK:277],[BBD:83],[ELD:247],[KTK:239],[IKO:247],[AKH:243],[C19:59],[XLN:253],[BFZ:249],[ELD:333],[3ED:290],[WWK:132],[C20:255],[TMP:315],[KTK:230],[ZEN:219],[ZEN:220],[ZEN:223],[MH1:244],[ZEN:229])([EMA:108],[ORI:90],[KLD:75],[JR:109],[GRN:193],[M12:73],[M10:52],[3ED:105],[SCG:64],[PLC:85],[KTK:59])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([GRN:170])

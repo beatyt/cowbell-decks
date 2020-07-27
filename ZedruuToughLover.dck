@@ -1,0 +1,103 @@
+NAME:ZedruuToughLover
+1 [FRF:104] Humble Defector
+1 [C17:37] Fractured Identity
+1 [CMA:38] Djinn of Infinite Deceits
+1 [RTR:35] Cyclonic Rift
+1 [STH:41] Reins of Power
+1 [ZEN:211] Arid Mesa
+1 [SOM:220] Venser's Journal
+1 [FRF:51] Shifting Loyalties
+1 [C14:55] Crown of Doom
+1 [BNG:48] Perplexing Chimera
+1 [C13:52] Order of Succession
+1 [RTR:33] Conjured Currency
+1 [GPT:41] Vedalken Plotter
+1 [M11:208] Jinxed Idol
+1 [SHM:47] Puca's Mischief
+1 [TSP:71] Paradox Haze
+1 [M13:22] Oblivion Ring
+1 [SOK:56] Shifting Borders
+1 [5DN:104] Avarice Totem
+1 [MRD:87] Confusion in the Ranks
+1 [MRD:189] Jinxed Choker
+1 [MRD:234] Rust Elemental
+1 [8ED:227] Thieves' Auction
+1 [ONS:223] Risky Move
+1 [ODY:79] Cultural Exchange
+1 [APC:72] Wild Research
+1 [7ED:70] Delusions of Mediocrity
+1 [INV:68] Psychic Battle
+1 [6ED:190] Illicit Auction
+1 [TMP:72] Legerdemain
+1 [MIR:81] Political Trickery
+1 [AKH:8] Cast Out
+1 [RNA:22] Smothering Tithe
+1 [WAR:214] Role Reversal
+1 [C19:11] Sudden Substitution
+1 [C19:56] Pendant of Prosperity
+1 [ELD:186] Dance of the Manse
+1 [ELD:347] Mirrormade
+1 [M20:64] Leyline of Anticipation
+1 [THS:210] Akroan Horse
+1 [M10:212] Howling Mine
+1 [AKH:4] Approach of the Second Sun
+1 [KTK:233] Flooded Strand
+1 [ZEN:223] Scalding Tarn
+1 [RNA:251] Hallowed Fountain
+1 [GRN:254] Sacred Foundry
+1 [GRN:257] Steam Vents
+1 [3ED:291] Volcanic Island
+1 [3ED:289] Tundra
+1 [3ED:284] Plateau
+1 [KTK:230] Bloodstained Mire
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [MH1:244] Prismatic Vista
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [CSP:152] Snow-Covered Island
+1 [CSP:154] Snow-Covered Mountain
+1 [ELD:247] Mystic Sanctuary
+1 [SHM:275] Mistveil Plains
+1 [M19:254] Reliquary Tower
+1 [MH1:241] Hall of Heliod's Generosity
+1 [C16:301] Homeward Path
+1 [TSP:275] Kher Keep
+1 [5ED:70] Aether Storm
+1 [3ED:274] Sol Ring
+1 [GPT:152] Izzet Signet
+1 [RAV:255] Boros Signet
+1 [DIS:159] Azorius Signet
+1 [ELD:331] Arcane Signet
+1 [ELD:333] Command Tower
+1 [FEM:99] Rainbow Vale
+1 [CON:142] Exotic Orchard
+1 [CHK:276] Forbidden Orchard
+1 [MB1:1603] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [STH:138] Mox Diamond
+1 [MRD:152] Chrome Mox
+1 [RNA:34] Clear the Mind
+1 [MB1:126] Grasp of Fate
+1 [C18:7] Echo Storm
+1 [AER:38] Mechanized Production
+1 [M14:225] Trading Post
+1 [RTR:155] Detention Sphere
+1 [STH:137] Jinxed Ring
+1 [ONS:197] Custody Battle
+1 [ICE:79] Illusions of Grandeur
+1 [GTC:53] Stolen Identity
+1 [M11:221] Whispersilk Cloak
+1 [GTC:231] Illusionist's Bracers
+1 [JUD:24] Solitary Confinement
+1 [ICE:353] Glacial Chasm
+1 [FUT:173] Tolaria West
+1 [GRN:233] Chromatic Lantern
+1 [LEG:28] Moat
+1 [ICE:87] Mystic Remora
+SB: 1 [C16:231] Zedruu the Greathearted
+LAYOUT MAIN:(2,8)(CARD_TYPE,true,50)|([MRD:234],[THS:210])()([FRF:104],[CMA:38],[GPT:41])([BNG:48])()()()()()([SOM:220],[C14:55],[M11:208],[5DN:104],[MRD:189],[C19:56],[M10:212],[3ED:274],[GPT:152],[RAV:255],[DIS:159],[ELD:331],[MB1:1603],[5ED:388],[STH:138],[MRD:152],[M14:225],[STH:137],[M11:221],[GTC:231],[GRN:233])()()([RTR:33],[SHM:47],[TSP:71],[M13:22],[MRD:87],[ONS:223],[APC:72],[7ED:70],[INV:68],[AKH:8],[RNA:22],[ELD:347],[M20:64],[5ED:70],[MB1:126],[AER:38],[RTR:155],[ONS:197],[ICE:79],[JUD:24],[LEG:28],[ICE:87])([RTR:35],[STH:41],[SOK:56],[C19:11])([ZEN:211],[KTK:233],[ZEN:223],[RNA:251],[GRN:254],[GRN:257],[3ED:291],[3ED:289],[3ED:284],[KTK:230],[JOU:163],[ZEN:219],[ZEN:220],[KTK:239],[MH1:244],[ZEN:229],[KTK:248],[KTK:249],[CSP:152],[CSP:154],[ELD:247],[SHM:275],[M19:254],[MH1:241],[C16:301],[TSP:275],[ELD:333],[FEM:99],[CON:142],[CHK:276],[ICE:353],[FUT:173])([C17:37],[FRF:51],[C13:52],[8ED:227],[ODY:79],[6ED:190],[TMP:72],[MIR:81],[WAR:214],[ELD:186],[AKH:4],[RNA:34],[C18:7],[GTC:53])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([C16:231])

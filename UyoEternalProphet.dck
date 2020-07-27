@@ -1,0 +1,91 @@
+NAME:Uyo, Eternal Prophet 
+1 [5ED:110] Portent
+1 [WWK:121] Amulet of Vigor
+1 [MMQ:61] Brainstorm
+1 [ELD:331] Arcane Signet
+1 [CHK:52] Azami, Lady of Scrolls
+1 [MBS:20] Blue Sun's Zenith
+1 [NPH:132] Caged Sun
+1 [SOM:48] Trinket Mage
+1 [M19:229] Crucible of Worlds
+1 [OGW:170] Crumbling Vestige
+1 [RTR:35] Cyclonic Rift
+1 [ODY:320] Deserted Temple
+1 [SOM:32] Dissipation Field
+1 [SOK:36] Eternal Dominion
+1 [ZEN:201] Expedition Map
+1 [MRD:169] Extraplanar Lens
+1 [PLC:40] Dreamscape Artist
+1 [3ED:50] Braingeyser
+1 [M14:216] Ring of Three Wishes
+1 [MRD:188] Isochron Scepter
+1 [ZEN:220] Misty Rainforest
+1 [KLD:216] Ghirapur Orrery
+1 [BFZ:78] Guardian of Tazeem
+1 [3ED:274] Sol Ring
+1 [WWK:137] Halimar Depths
+1 [TMP:306] Sapphire Medallion
+1 [KLD:247] Inventors' Fair
+1 [PCY:45] Rhystic Study
+1 [STH:135] Horn of Greed
+1 [GTC:231] Illusionist's Bracers
+1 [TMP:315] Ancient Tomb
+1 [WAR:53] God-Eternal Kefnet
+1 [ZEN:205] Khalni Gem
+1 [M20:249] Lotus Field
+1 [M13:68] Spelltwine
+1 [TMP:55] Capsize
+1 [EXO:35] Forbid
+1 [EMN:70] Mind's Dilation
+1 [ROE:64] Echo Mage
+1 [M19:254] Reliquary Tower
+1 [TMP:80] Propaganda
+1 [ICE:87] Mystic Remora
+1 [ELD:247] Mystic Sanctuary
+1 [6ED:83] Mystical Tutor
+1 [THS:46] Curse of the Swine
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [SOK:48] Oboro Breezecaller
+1 [CHK:273] Boseiju, Who Shelters All
+1 [OGW:174] Mirrorpool
+1 [HOU:50] Swarm Intelligence
+13 [M21:263] Island
+1 [M12:73] Ponder
+1 [ME2:58] Personal Tutor
+1 [STH:138] Mox Diamond
+1 [BFZ:82] Retreat to Coralhelm
+1 [LEG:65] Mana Drain
+1 [FEM:18a] High Tide
+1 [ZEN:62] Roil Elemental
+1 [STH:134] Heartstone
+1 [WTH:166] Scorched Ruins
+1 [WWK:130] Seer's Sundial
+1 [AVR:226] Cavern of Souls
+1 [MMQ:82] Gush
+1 [AVR:79] Tamiyo, the Moon Sage
+1 [CHK:86] Soratami Cloudskater
+1 [CHK:88] Soratami Mirror-Mage
+1 [CHK:89] Soratami Rainshaper
+1 [CHK:90] Soratami Savant
+1 [CHK:91] Soratami Seer
+1 [M21:275] Teferi, Master of Time
+1 [8ED:91] Merchant Scroll
+1 [M10:52] Fabricate
+1 [NEM:143] Terrain Generator
+1 [ALL:144] Thawing Glaciers
+1 [ZEN:223] Scalding Tarn
+1 [FUT:173] Tolaria West
+1 [M21:294] Teferi's Ageless Insight
+1 [6ED:92] Recall
+1 [ROE:91] Training Grounds
+1 [KTK:233] Flooded Strand
+1 [MH1:244] Prismatic Vista
+1 [BOK:45] Patron of the Moon
+1 [5DN:164] Vedalken Shackles
+1 [WAR:51] Finale of Revelation
+1 [WWK:131] Walking Atlas
+1 [AER:49] Whir of Invention
+1 [FUT:41] Mystic Speculation
+SB: 1 [CHK:99] Uyo, Silent Prophet
+LAYOUT MAIN:(2,9)(CMC,true,50)|()()([PLC:40],[SOK:48],[CHK:86],[WWK:131])([SOM:48],[ROE:64],[CHK:89])([WAR:53],[CHK:88],[CHK:90])([CHK:52],[BFZ:78],[CHK:91])([ZEN:62])([BOK:45])()([OGW:170],[ODY:320],[ZEN:220],[WWK:137],[KLD:247],[TMP:315],[M20:249],[M19:254],[ELD:247],[THS:223],[CHK:273],[OGW:174],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[STH:138],[WTH:166],[AVR:226],[NEM:143],[ALL:144],[ZEN:223],[FUT:173],[KTK:233],[MH1:244])([5ED:110],[WWK:121],[MMQ:61],[ZEN:201],[3ED:274],[ICE:87],[6ED:83],[M12:73],[ME2:58],[FEM:18a],[6ED:92],[ROE:91],[FUT:41])([ELD:331],[RTR:35],[3ED:50],[MRD:188],[TMP:306],[GTC:231],[THS:46],[LEG:65],[8ED:91],[WAR:51])([MBS:20],[M19:229],[MRD:169],[PCY:45],[STH:135],[TMP:55],[EXO:35],[TMP:80],[BFZ:82],[STH:134],[M10:52],[5DN:164],[AER:49])([SOM:32],[KLD:216],[ZEN:205],[WWK:130],[M21:275],[M21:294])([M14:216],[MMQ:82],[AVR:79])([NPH:132],[M13:68])([EMN:70],[HOU:50])([SOK:36])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([CHK:99])

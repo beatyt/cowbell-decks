@@ -1,0 +1,103 @@
+NAME:NekusarWheels
+1 [ELD:343] Folio of Fancies
+1 [ELD:331] Arcane Signet
+1 [TMP:315] Ancient Tomb
+1 [ZEN:211] Arid Mesa
+1 [3ED:282] Badlands
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [ODY:317] Cephalid Coliseum
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [KTK:233] Flooded Strand
+1 [CHK:276] Forbidden Orchard
+1 [BBD:82] Luxury Suite
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [BBD:83] Morphic Pool
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [KLD:249] Spirebluff Canal
+1 [GRN:257] Steam Vents
+1 [10E:362] Underground River
+1 [3ED:290] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ZEN:229] Verdant Catacombs
+1 [3ED:291] Volcanic Island
+1 [GRN:259] Watery Grave
+1 [KTK:249] Wooded Foothills
+1 [XLN:243] Primal Amulet
+1 [TSP:48] Ancestral Vision
+1 [BNG:68] Fate Unraveler
+1 [THB:121] Underworld Dreams
+1 [SOI:244] Fevered Visions
+1 [SOM:98] Molten Psyche
+1 [SHM:198] Spiteful Visions
+1 [WAR:100] Ob Nixilis, the Hate-Twisted
+1 [JOU:37] Dictate of Kruphix
+1 [M10:104] Megrim
+1 [M10:212] Howling Mine
+1 [M11:103] Liliana's Caress
+1 [M11:217] Temple Bell
+1 [9ED:312] Teferi's Puzzle Box
+1 [6ED:89] Prosperity
+1 [MH1:46] Echo of Eons
+1 [ONS:121] Wheel and Deal
+1 [10E:83] Evacuation
+1 [ISD:130] Blasphemous Act
+1 [PLC:85] Damnation
+1 [V14:10] Rolling Earthquake
+1 [DIS:36] Vision Skeins
+1 [M13:145] Reverberate
+1 [GPT:107] Cerebral Vortex
+1 [ONS:238] Starstorm
+1 [M12:77] Time Reversal
+1 [TSP:187] Wheel of Fate
+1 [3ED:185] Wheel of Fortune
+1 [DIS:32] Skyscribing
+1 [EMN:123] Collective Defiance
+1 [CM2:46] Minds Aglow
+1 [ORI:51] Day's Undoing
+1 [FRF:34] Fascination
+1 [USG:103] Time Spiral
+1 [M10:128] Burning Inquiry
+1 [CON:136] Font of Mythos
+1 [KLD:75] Diabolic Tutor
+1 [5ED:387] Library of Leng
+1 [SOM:220] Venser's Journal
+1 [DST:123] Geth's Grimoire
+1 [M14:209] Elixir of Immortality
+1 [4ED:299] Black Vise
+1 [VIS:141] Anvil of Bogardan
+1 [PLS:118] Phyrexian Tyranny
+1 [C13:89] Price of Knowledge
+1 [ZEN:82] Bloodchief Ascension
+1 [AVR:219] Otherworld Atlas
+1 [MRD:152] Chrome Mox
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [MB1:1603] Mana Crypt
+1 [MRD:286] Vault of Whispers
+1 [MRD:283] Seat of the Synod
+1 [9ED:297] Fellwar Stone
+1 [3ED:274] Sol Ring
+1 [3ED:53] Copy Artifact
+1 [ELD:347] Mirrormade
+1 [M15:122] Waste Not
+1 [MRD:253] Talisman of Dominance
+1 [EMA:108] Toxic Deluge
+1 [USG:171] Yawgmoth's Will
+1 [USG:111] Windfall
+1 [FRF:66] Dark Deal
+1 [2ED:85] Timetwister
+1 [TMP:294] Lotus Petal
+1 [ISD:155] Past in Flames
+1 [GTC:207] Whispering Madness
+1 [RTR:35] Cyclonic Rift
+1 [GRN:44] Mission Briefing
+1 [RTR:111] Vandalblast
+SB: 1 [C13:201] Nekusar, the Mindrazer
+LAYOUT MAIN:(2,8)(CARD_TYPE,true,50)|()()([BNG:68])()()()()()([MRD:286],[MRD:283])([ELD:343],[ELD:331],[XLN:243],[M10:212],[M11:217],[9ED:312],[CON:136],[5ED:387],[SOM:220],[DST:123],[M14:209],[4ED:299],[VIS:141],[AVR:219],[MRD:152],[STH:138],[SOM:179],[MB1:1603],[9ED:297],[3ED:274],[MRD:253],[TMP:294])()([THB:121],[SOI:244],[SHM:198],[JOU:37],[M10:104],[M11:103],[PLS:118],[C13:89],[ZEN:82],[3ED:53],[ELD:347],[M15:122])([ONS:121],[10E:83],[DIS:36],[M13:145],[GPT:107],[ONS:238],[RTR:35],[GRN:44])([TMP:315],[ZEN:211],[3ED:282],[RNA:245],[KTK:230],[ODY:317],[8ED:322],[ELD:333],[CON:142],[KTK:233],[CHK:276],[BBD:82],[JOU:163],[ZEN:219],[ZEN:220],[BBD:83],[KTK:239],[ZEN:223],[KLD:249],[GRN:257],[10E:362],[3ED:290],[M15:248],[ZEN:229],[3ED:291],[GRN:259],[KTK:249])([WAR:100])([TSP:48],[SOM:98],[6ED:89],[MH1:46],[ISD:130],[PLC:85],[V14:10],[M12:77],[TSP:187],[3ED:185],[DIS:32],[EMN:123],[CM2:46],[ORI:51],[FRF:34],[USG:103],[M10:128],[KLD:75],[EMA:108],[USG:171],[USG:111],[FRF:66],[2ED:85],[ISD:155],[GTC:207],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([C13:201])

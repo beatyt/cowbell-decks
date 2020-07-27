@@ -1,0 +1,102 @@
+NAME:Kozilek Artifacts
+1 [ULG:126] Grim Monolith
+2 [OGW:183a] Wastes
+1 [TMP:330] Wasteland
+1 [MRD:145] Blinkmoth Urn
+1 [M12:224] Buried Ruin
+1 [9ED:329] Urza's Tower
+1 [FUT:160] Cloud Key
+1 [9ED:328] Urza's Power Plant
+1 [9ED:327] Urza's Mine
+1 [M14:225] Trading Post
+1 [SCG:143] Temple of the False God
+1 [ODY:320] Deserted Temple
+1 [4ED:363] Strip Mine
+1 [ZEN:201] Expedition Map
+1 [KLD:215] Foundry Inspector
+1 [3ED:274] Sol Ring
+1 [DTK:249] Haven of the Spirit Dragon
+1 [KLD:247] Inventors' Fair
+1 [WAR:248] Karn's Bastion
+1 [M11:212] Platinum Angel
+1 [M19:229] Crucible of Worlds
+1 [5ED:391] Nevinyrral's Disk
+1 [MRD:205] Mind's Eye
+1 [STH:138] Mox Diamond
+1 [MBS:114] Mirrorworks
+1 [ATQ:81] Mishra's Workshop
+1 [DST:130] Mycosynth Lattice
+1 [MRD:215] Myr Retriever
+1 [M20:233] Mystic Forge
+1 [M11:226] Mystifying Maze
+1 [UDS:135] Metalworker
+1 [AER:171] Planar Bridge
+1 [M14:216] Ring of Three Wishes
+1 [LRW:259] Rings of Brighthearth
+1 [M14:224] Strionic Resonator
+1 [C19:59] Sanctum of Eternity
+1 [BFZ:242] Sanctum of Ugin
+1 [NPH:1] Karn Liberated
+1 [10E:342] Sculpting Steel
+1 [OGW:177] Sea Gate Wreckage
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [SOI:258] Magnifying Glass
+1 [MBS:136] Spine of Ish Sah
+1 [8ED:311] Planar Portal
+1 [GTC:248] Thespian's Stage
+1 [SOM:195] Prototype Portal
+1 [M14:206] Darksteel Forge
+1 [KTK:245] Tomb of the Spirit Dragon
+1 [M15:242] Darksteel Citadel
+1 [WAR:2] Ugin, the Ineffable
+1 [NPH:164] Unwinding Clock
+1 [TSP:280] Urza's Factory
+1 [M13:202] Clock of Omens
+1 [KLD:216] Ghirapur Orrery
+1 [TSP:281] Vesuva
+1 [UDS:139] Thran Dynamo
+1 [TMP:315] Ancient Tomb
+1 [ROE:1] All Is Dust
+1 [SOI:265] Tamiyo's Journal
+1 [WAR:1] Karn, the Great Creator
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [BNG:157] Astral Cornucopia
+1 [M13:217] Staff of Nin
+1 [SOM:145] Contagion Engine
+1 [MRD:165] Duplicant
+1 [SOM:176] Mindslaver
+1 [ULG:123] Crawlspace
+1 [M10:212] Howling Mine
+1 [DOM:1] Karn, Scion of Urza
+1 [M21:1] Ugin, the Spirit Dragon
+1 [WWK:123] Everflowing Chalice
+1 [VIS:145] Helm of Awakening
+1 [10E:335] Mind Stone
+1 [AVR:226] Cavern of Souls
+1 [MB1:1639] Thought Vessel
+1 [MB1:1603] Mana Crypt
+1 [SOM:179] Mox Opal
+1 [5ED:388] Mana Vault
+1 [9ED:297] Fellwar Stone
+1 [NPH:151] Pristine Talisman
+1 [USG:318] Worn Powerstone
+1 [SOM:144] Contagion Clasp
+1 [ORI:249] Mage-Ring Network
+1 [DST:163] Blinkmoth Nexus
+1 [M19:238] Magistrate's Scepter
+1 [TSP:274] Gemstone Caverns
+1 [ROE:227] Eldrazi Temple
+1 [5DN:128] Guardian Idol
+1 [HOU:165] Mirage Mirror
+1 [M15:215] The Chain Veil
+1 [M20:247] Field of the Dead
+1 [ICE:353] Glacial Chasm
+1 [MBS:145] Inkmoth Nexus
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [M14:228] Mutavault
+1 [MRD:284] Stalking Stones
+1 [M10:208] Darksteel Colossus
+1 [MBS:99] Blightsteel Colossus
+SB: 1 [OGW:4] Kozilek, the Great Distortion
+LAYOUT MAIN:(2,13)(CMC,true,50)|()()([MRD:215])([KLD:215],[UDS:135])()()([MRD:165])([M11:212])()()([ROE:6])([M10:208])([MBS:99])([OGW:183a],[OGW:183a],[TMP:330],[M12:224],[9ED:329],[9ED:328],[9ED:327],[SCG:143],[ODY:320],[4ED:363],[DTK:249],[KLD:247],[WAR:248],[STH:138],[ATQ:81],[M11:226],[C19:59],[BFZ:242],[OGW:177],[BFZ:245],[GTC:248],[KTK:245],[M15:242],[TSP:280],[TSP:281],[TMP:315],[BNG:157],[WWK:123],[AVR:226],[MB1:1603],[SOM:179],[ORI:249],[DST:163],[TSP:274],[ROE:227],[M20:247],[ICE:353],[MBS:145],[SOK:162],[M14:228],[MRD:284])([ZEN:201],[3ED:274],[5ED:388])([ULG:126],[M14:224],[M10:212],[VIS:145],[10E:335],[MB1:1639],[9ED:297],[SOM:144],[5DN:128])([FUT:160],[M19:229],[LRW:259],[10E:342],[SOI:258],[ULG:123],[NPH:151],[USG:318],[M19:238],[HOU:165])([M14:225],[5ED:391],[M20:233],[SOM:195],[NPH:164],[M13:202],[KLD:216],[UDS:139],[WAR:1],[DOM:1],[M15:215])([MRD:145],[MRD:205],[MBS:114],[M14:216],[SOI:265])([DST:130],[AER:171],[8ED:311],[WAR:2],[M13:217],[SOM:145],[SOM:176])([NPH:1],[MBS:136],[ROE:1])([M21:1])([M14:206])()()()
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([OGW:4])

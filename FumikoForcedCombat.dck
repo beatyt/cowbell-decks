@@ -1,0 +1,80 @@
+NAME:FumikoForcedCombat
+1 [MH1:117] Alpine Guide
+1 [C19:22] Anje's Ravager
+1 [BNG:88] Archetype of Aggression
+1 [XLN:235] Dowsing Dagger
+1 [ISD:130] Blasphemous Act
+1 [SHM:83] Bloodmark Mentor
+1 [M14:210] Fireshrieker
+1 [THS:213] Burnished Hart
+1 [NPH:132] Caged Sun
+1 [ELD:239] Castle Embereth
+1 [3ED:185] Wheel of Fortune
+1 [TSB:117] Arena
+1 [5ED:388] Mana Vault
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [C14:55] Crown of Doom
+1 [MB1:896] Curse of Opulence
+1 [ONS:197] Custody Battle
+1 [MBS:104] Darksteel Plate
+1 [MRD:282] Great Furnace
+1 [C17:25] Disrupt Decorum
+1 [C18:55] Endless Atlas
+1 [RIX:100] Etali, Primal Storm
+1 [DKA:87] Faithless Looting
+1 [ONS:317] Forgotten Cave
+1 [C16:19] Goblin Spymaster
+1 [ONS:211] Grand Melee
+1 [CN2:54] Grenzo, Havoc Raiser
+1 [C17:51] Hammer of Nazahn
+1 [EMN:204a] Hanweir Battlements
+1 [ONS:213] Insurrection
+1 [WWK:84] Kazuul, Tyrant of the Cliffs
+1 [GRN:109] Legion Warboss
+1 [MRD:199] Lightning Greaves
+1 [M21:165] Thrill of Possibility
+1 [MB1:1603] Mana Crypt
+1 [FRF:109] Mob Rule
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [CHK:265] Oathkeeper, Takeno's Daisho
+1 [FRF:110] Outpost Siege
+1 [SOM:153] Echo Circlet
+1 [RTR:101] Mizzium Mortars
+1 [AVR:151] Reforge the Soul
+1 [10E:225] Relentless Assault
+1 [CM2:115] Rite of the Raging Storm
+1 [ORI:250] Rogue's Passage
+1 [ORI:240] Sword of the Animist
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [M13:148] Slumbering Dragon
+24 [CSP:154] Snow-Covered Mountain
+1 [3ED:274] Sol Ring
+1 [LRW:274] Spinerock Knoll
+1 [THB:236] Shadowspear
+1 [M12:219] Swiftfoot Boots
+1 [TMP:305] Ruby Medallion
+1 [CHK:271] Tenza, Godo's Maul
+1 [XLN:249] Thaumatic Compass
+1 [AVR:223] Vanguard's Shield
+1 [DST:153] Thunderstaff
+1 [M19:164] Tormenting Voice
+1 [XLN:171] Trove of Temptation
+1 [BOK:163] Umezawa's Jitte
+1 [ULG:123] Crawlspace
+1 [RTR:111] Vandalblast
+1 [C18:28] Varchild, Betrayer of Kjeldor
+1 [C20:146] Chaos Warp
+1 [DIS:77] War's Toll
+1 [SOM:179] Mox Opal
+1 [M14:161] Wild Guess
+1 [EMN:130a] Hanweir Garrison
+1 [DOM:211] Blackblade Reforged
+1 [STH:138] Mox Diamond
+1 [MRD:152] Chrome Mox
+1 [TMP:315] Ancient Tomb
+1 [M11:216] Sword of Vengeance
+1 [M15:212] Avarice Amulet
+1 [M13:214] Ring of Valkas
+SB: 1 [BOK:104] Fumiko the Lowblood
+LAYOUT MAIN:(2,9)(CARD_TYPE,true,50)|([THS:213])()()([MH1:117],[C19:22],[SHM:83],[RIX:100],[C16:19],[CN2:54],[WWK:84],[GRN:109],[M13:148],[C18:28],[EMN:130a])([BNG:88])()()()()()([MRD:282])([XLN:235],[M14:210],[NPH:132],[5ED:388],[C14:55],[MBS:104],[C18:55],[C17:51],[MRD:199],[MB1:1603],[CHK:265],[SOM:153],[ORI:240],[3ED:274],[THB:236],[M12:219],[TMP:305],[CHK:271],[XLN:249],[AVR:223],[DST:153],[BOK:163],[ULG:123],[SOM:179],[DOM:211],[STH:138],[MRD:152],[M11:216],[M15:212],[M13:214])()()([MB1:896],[ONS:197],[ONS:211],[FRF:110],[CM2:115],[XLN:171],[DIS:77])([M21:165],[C20:146])([ELD:239],[TSB:117],[ZEN:228],[ONS:317],[EMN:204a],[THS:223],[ORI:250],[CHK:282],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[LRW:274],[TMP:315])([ISD:130],[3ED:185],[C17:25],[DKA:87],[ONS:213],[FRF:109],[RTR:101],[AVR:151],[10E:225],[M19:164],[RTR:111],[M14:161])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([BOK:104])

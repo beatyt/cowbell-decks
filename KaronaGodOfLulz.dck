@@ -1,0 +1,102 @@
+NAME:KaronaGodOfLulz
+1 [C20:49] Agitator Ant
+1 [SOI:242] Anguished Unmaking
+1 [ELD:331] Arcane Signet
+1 [C18:164] Vow of Wildness
+1 [CM2:82] Vow of Malice
+1 [C19:53] Bloodthirsty Blade
+1 [E02:30] Vow of Lightning
+1 [C18:110] Vow of Flight
+1 [C17:16] Curse of Disturbance
+1 [DKA:34] Curse of Echoes
+1 [MB1:896] Curse of Opulence
+1 [C16:12] Curse of Vengeance
+1 [C17:9] Curse of Verbosity
+1 [C17:3] Curse of Vitality
+1 [ISD:137] Curse of the Nightly Hunt
+1 [RTR:35] Cyclonic Rift
+1 [E02:6] Vow of Duty
+1 [MRD:285] Tree of Tales
+1 [ONS:261] Enchantress's Presence
+1 [6ED:19] Enlightened Tutor
+1 [6ED:161] Vampiric Tutor
+1 [9ED:297] Fellwar Stone
+1 [STH:138] Mox Diamond
+1 [CHK:10] Ghostly Prison
+1 [ORI:180] Herald of the Pantheon
+1 [MB1:1350] Tempt with Discovery
+1 [C20:28] Martial Impetus
+1 [INV:278] Sterling Grove
+1 [C20:46] Parasitic Impetus
+1 [C20:62] Predatory Impetus
+1 [ISD:136] Curse of Stalked Prey
+1 [PCY:45] Rhystic Study
+1 [C20:37] Psychic Impetus
+1 [M21:200] Return to Nature
+1 [M12:190] Rampant Growth
+1 [TMP:80] Propaganda
+1 [M19:223] Satyr Enchanter
+1 [STH:102] Burgeoning
+1 [C20:55] Shiny Impetus
+1 [RNA:22] Smothering Tithe
+1 [RTR:24] Sphere of Safety
+1 [UDS:15] Replenish
+1 [CHK:225] Kodama's Reach
+1 [AKH:112] Trespasser's Curse
+1 [M13:170] Farseek
+1 [IMA:159] Curse of Predation
+1 [3ED:105] Demonic Tutor
+1 [M21:177] Cultivate
+1 [USG:250] Exploration
+1 [THB:269] Athreos, Shroud-Veiled
+1 [USG:234] Argothian Enchantress
+1 [C18:50] Xantcha, Sleeper Agent
+1 [TMP:315] Ancient Tomb
+1 [MRD:278] Ancient Den
+1 [ORI:33] Starfield of Nyx
+1 [3ED:283] Bayou
+1 [MRD:152] Chrome Mox
+1 [ICE:353] Glacial Chasm
+1 [DKA:56] Curse of Misfortunes
+1 [RNA:251] Hallowed Fountain
+1 [GRN:253] Overgrown Tomb
+1 [RNA:246] Breeding Pool
+1 [GRN:257] Steam Vents
+1 [GRN:258] Temple Garden
+1 [GRN:259] Watery Grave
+1 [MRD:283] Seat of the Synod
+1 [KTK:233] Flooded Strand
+1 [SOM:179] Mox Opal
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [MH1:244] Prismatic Vista
+1 [4ED:363] Strip Mine
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:249] Wooded Foothills
+1 [KTK:248] Windswept Heath
+1 [3ED:291] Volcanic Island
+1 [3ED:288] Tropical Island
+1 [3ED:289] Tundra
+1 [3ED:290] Underground Sea
+1 [3ED:285] Savannah
+1 [3ED:286] Scrubland
+1 [3ED:287] Taiga
+1 [3ED:274] Sol Ring
+1 [ICE:87] Mystic Remora
+1 [MB1:1603] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [3ED:53] Copy Artifact
+1 [RAV:270] Selesnya Signet
+1 [10E:342] Sculpting Steel
+1 [M21:263] Island
+1 [M21:260] Plains
+1 [M21:269] Mountain
+1 [M21:266] Swamp
+1 [C18:8] Estrid's Invocation
+1 [RAV:42] Copy Enchantment
+1 [DKA:57] Curse of Thirst
+3 [M21:272] Forest
+SB: 1 [SCG:138] Karona, False God
+SB: 1 [IKO:222] Jegantha, the Wellspring
+LAYOUT MAIN:(2,8)(CARD_TYPE,true,50)|()()([C20:49],[ORI:180],[M19:223],[USG:234],[C18:50])([THB:269])()()()()([MRD:285],[MRD:278],[MRD:283])([ELD:331],[C19:53],[9ED:297],[STH:138],[MRD:152],[SOM:179],[3ED:274],[MB1:1603],[5ED:388],[RAV:270],[10E:342])()()([C18:164],[CM2:82],[E02:30],[C18:110],[C17:16],[DKA:34],[MB1:896],[C16:12],[C17:9],[C17:3],[ISD:137],[E02:6],[ONS:261],[CHK:10],[C20:28],[INV:278],[C20:46],[C20:62],[ISD:136],[PCY:45],[C20:37],[TMP:80],[STH:102],[C20:55],[RNA:22],[RTR:24],[AKH:112],[IMA:159],[USG:250],[ORI:33],[DKA:56],[ICE:87],[3ED:53],[C18:8],[RAV:42],[DKA:57])([SOI:242],[RTR:35],[6ED:19],[6ED:161],[M21:200])([TMP:315],[3ED:283],[ICE:353],[RNA:251],[GRN:253],[RNA:246],[GRN:257],[GRN:258],[GRN:259],[KTK:233],[ZEN:220],[KTK:239],[MH1:244],[4ED:363],[ZEN:229],[KTK:249],[KTK:248],[3ED:291],[3ED:288],[3ED:289],[3ED:290],[3ED:285],[3ED:286],[3ED:287],[M21:263],[M21:260],[M21:269],[M21:266],[M21:272],[M21:272],[M21:272])([MB1:1350],[M12:190],[UDS:15],[CHK:225],[M13:170],[3ED:105],[M21:177])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([SCG:138],[IKO:222])

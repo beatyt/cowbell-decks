@@ -1,0 +1,97 @@
+NAME:YurikoNinjas
+1 [3ED:290] Underground Sea
+1 [10E:362] Underground River
+1 [AKH:243] Fetid Pools
+1 [TSP:269] Academy Ruins
+1 [ONS:312] Barren Moor
+1 [WWK:132] Bojuka Bog
+1 [TOR:139] Cabal Coffers
+1 [10E:351] Faerie Conclave
+5 [M21:263] Island
+1 [ELD:247] Mystic Sanctuary
+1 [KTK:239] Polluted Delta
+1 [CHK:283] Shizo, Death's Storehouse
+1 [MRD:283] Seat of the Synod
+1 [BFZ:249] Sunken Hollow
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MRD:286] Vault of Whispers
+1 [STH:143] Volrath's Stronghold
+1 [GRN:259] Watery Grave
+1 [ELD:249] Witch's Cottage
+1 [XLN:74] Search for Azcanta
+3 [M21:266] Swamp
+1 [M12:73] Ponder
+1 [5ED:110] Portent
+1 [DOM:69] Tetsuko Umezawa, Fugitive
+1 [CHK:268] Sensei's Divining Top
+1 [TMP:308] Scroll Rack
+1 [MMQ:61] Brainstorm
+1 [8ED:67] Coastal Piracy
+1 [ISD:49] Curiosity
+1 [RIX:35] Curious Obsession
+1 [PCY:45] Rhystic Study
+1 [THS:42] Bident of Thassa
+1 [M15:69] Military Intelligence
+1 [C17:11] Kindred Discovery
+1 [5ED:182] Necropotence
+1 [AKH:211] Commit // Memory
+1 [XLN:46] Arcane Adaptation
+1 [MH1:69] Smoke Shroud
+1 [BOK:43] Mistblade Shinobi
+1 [MH1:58] Mist-Syndicate Naga
+1 [MH1:110] Throatseeker
+1 [C18:191] Silent-Blade Oni
+1 [BOK:71] Ink-Eyes, Servant of Oni
+1 [MH1:199] Fallen Shinobi
+1 [BOK:88] Throat Slitter
+1 [BOK:37] Higure, the Still Wind
+1 [MH1:204] Ingenious Infiltrator
+1 [PCA:24] Sakashima's Student
+1 [BOK:44] Ninja of the Deep Hours
+1 [MH1:59] Moonblade Shinobi
+1 [MH1:79] Azra Smokeshaper
+1 [MH1:62] Phantom Ninja
+1 [MH1:82] Changeling Outcast
+1 [TMP:315] Ancient Tomb
+1 [AVR:81] Temporal Mastery
+1 [FRF:55] Temporal Trespass
+1 [STH:138] Mox Diamond
+1 [M15:100] In Garruk's Wake
+1 [M14:111] Rise of the Dark Realms
+1 [MRD:152] Chrome Mox
+1 [TMP:151] Reanimate
+1 [AVR:226] Cavern of Souls
+1 [OGW:174] Mirrorpool
+1 [5ED:140] Animate Dead
+1 [CSP:58] Grim Harvest
+1 [VIS:64] Necromancy
+1 [ICE:87] Mystic Remora
+1 [7ED:67] Counterspell
+1 [CSP:31] Counterbalance
+1 [LEG:65] Mana Drain
+1 [RAV:60] Muddle the Mixture
+1 [CON:103] Countersquall
+1 [AER:31] Disallow
+1 [MH1:52] Force of Negation
+1 [ALL:28] Force of Will
+1 [6ED:83] Mystical Tutor
+1 [ME2:58] Personal Tutor
+1 [6ED:161] Vampiric Tutor
+1 [3ED:105] Demonic Tutor
+1 [M21:103] Grim Tutor
+1 [8ED:91] Merchant Scroll
+1 [M10:52] Fabricate
+1 [MH1:73] Tribute Mage
+1 [3ED:274] Sol Ring
+1 [MB1:1603] Mana Crypt
+1 [RTR:35] Cyclonic Rift
+1 [RAV:260] Dimir Signet
+1 [RAV:203] Dimir Infiltrator
+1 [THS:39] Aqueous Form
+1 [AKH:71] Slither Blade
+1 [GTC:228] Dimir Keyrune
+1 [M11:221] Whispersilk Cloak
+1 [SOM:179] Mox Opal
+SB: 1 [MB1:1515] Yuriko, the Tiger's Shadow
+LAYOUT MAIN:(2,9)(CARD_TYPE,true,50)|()()([DOM:69],[BOK:43],[MH1:58],[MH1:110],[C18:191],[BOK:71],[MH1:199],[BOK:88],[BOK:37],[MH1:204],[PCA:24],[BOK:44],[MH1:59],[MH1:79],[MH1:62],[MH1:82],[MH1:73],[RAV:203],[AKH:71])()()()()()()([MRD:283],[MRD:286])([CHK:268],[TMP:308],[STH:138],[MRD:152],[3ED:274],[MB1:1603],[RAV:260],[GTC:228],[M11:221],[SOM:179])()([THS:42])([XLN:74],[8ED:67],[ISD:49],[RIX:35],[PCY:45],[M15:69],[C17:11],[5ED:182],[XLN:46],[MH1:69],[5ED:140],[VIS:64],[ICE:87],[CSP:31],[THS:39])([AKH:211])([MMQ:61],[CSP:58],[7ED:67],[LEG:65],[RAV:60],[CON:103],[AER:31],[MH1:52],[ALL:28],[6ED:83],[6ED:161],[RTR:35])([3ED:290],[10E:362],[AKH:243],[TSP:269],[ONS:312],[WWK:132],[TOR:139],[10E:351],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[ELD:247],[KTK:239],[CHK:283],[BFZ:249],[M15:248],[STH:143],[GRN:259],[ELD:249],[M21:266],[M21:266],[M21:266],[TMP:315],[AVR:226],[OGW:174])([M12:73],[5ED:110],[AVR:81],[FRF:55],[M15:100],[M14:111],[TMP:151],[ME2:58],[3ED:105],[M21:103],[8ED:91],[M10:52])
+LAYOUT SIDEBOARD:(1,1)(EDH_POWER_LEVEL,false,50)|([MB1:1515])
